@@ -1,1 +1,19 @@
-#Liam {font-family: 'Georgia','Times New Roman', Times, serif;}
+
+
+h1 {font-family: 'Georgia','Times New Roman', Times, serif;
+    color: teal}
+
+p {float: right;
+    text-align: left;
+    font-family:Arial, Helvetica, sans-serif;}
+body {
+    background-image: 
+        url(assets\images\so-white.png);
+}
+.topnav {display: block;
+    border-block-end: 8px;
+    background-color: teal;}
+
+.topnav-right {
+    float: right;
+}
