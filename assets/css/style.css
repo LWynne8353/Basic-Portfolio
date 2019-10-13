@@ -1,19 +1,46 @@
 
-
-h1 {font-family: 'Georgia','Times New Roman', Times, serif;
-    color: teal}
-
-p {float: right;
-    text-align: left;
-    font-family:Arial, Helvetica, sans-serif;}
-body {
-    background-image: 
-        url(assets\images\so-white.png);
+.Liam {
+    font-family: 'Georgia','Times New Roman', Times, serif;
+    background-color: teal;
+    color: white;
+    font-size: 24px;
+    
 }
-.topnav {display: block;
-    border-block-end: 8px;
-    background-color: teal;}
 
 .topnav-right {
     float: right;
+    font-size: 20px;
+
 }
+
+h2 {font-family: 'Georgia','Times New Roman', Times, serif;
+    color: teal}
+
+p   {word-wrap: right;
+    text-align: left;
+    font-family:Arial, Helvetica, sans-serif;}
+
+img {
+    margin-left: 20px;
+    padding: 40px;
+    border: 10px solid white
+    
+}
+
+
+    
+footer {
+        display: flex;
+        justify-content: center;
+        margin-left: auto;
+        padding: 30px;
+        background-color: #666666;
+        color: #fff;
+    }
+
+
+
+
+
+
+
