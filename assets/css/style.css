@@ -5,8 +5,8 @@ body {
 
 .Liam {
     font-family: 'Georgia','Times New Roman', Times, serif;
-    background-color: teal;
-    color: white;
+    background-color: rgb(175, 8, 197)l;
+    color:  rgb(175, 8, 197);
     font-size: 24px;
     
 }
@@ -21,7 +21,7 @@ body {
 }
 
 h2 {font-family: 'Georgia','Times New Roman', Times, serif;
-    color: teal}
+    color: rgb(175, 8, 197)}
 
 p   {word-wrap: right;
     font-family:Arial, Helvetica, sans-serif;}
@@ -71,7 +71,7 @@ img {
 footer {
         text-align: center;
         margin-left: auto;
-        border-top: 8px solid teal;
+        border-top: 8px solid rgb(175, 8, 197);
         padding: 30px 0;
         height: 40px;
         background-color: #666666;
